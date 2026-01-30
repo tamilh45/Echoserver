@@ -89,7 +89,7 @@ httpd.serve_forever()
 **SERVER OUTPUT:**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/69f35957-c293-4378-821f-05f946bce9c3" />
 **CLIENT OUTPUT**
-![Uploading image.png…]()
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/38dc51f1-ffd4-46c7-8909-e72dd56db905" />
 
 
 ## RESULT:
